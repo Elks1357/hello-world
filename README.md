@@ -1,2 +1,2 @@
 # hello-world
-Hello all! Just getting started with the this new junk, I mean adventure!
+Hello all! Just getting started with the this new adventure!
